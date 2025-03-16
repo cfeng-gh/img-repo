@@ -1,0 +1,14 @@
+
+.rx{width:100%;margin:0px -5px;border:0px solid #e7e7e7;}
+.rx01{width:1198px;height:35px;border-bottom:0px solid #e7e7e7; }
+.rx01_01{width:80px;height:40px;float:left;padding-left: 30px;}
+.rx01_02{width:auto;height:35px;float:right;font-size:14px; line-height:46px; color:#282828; line-height:35px;text-align:right;padding-right:5px;padding-top: 5px; overflow:hidden}
+.rx01_02 span{ color:#ea0006; font-weight: bold; }
+
+.rong01{width:100%;min-width: 1200px; border:0px solid #ddd; float:left; padding-top: 10px;padding-left: -5px;padding-right: 0px;}
+.rong02{width:220px; float:left; height:165px; margin-left:15px; margin-top:0px;display:inline;border:0px solid #d7d7d7;border-bottom:none;}
+.rong02 img{width:220px; float:left; height:161px;margin:0px;display:inline;}
+.rong03{width:220px;height:25px;float:left;margin-left:15px;display:inline;font-size:12px; line-height:25px; color:white;background-color: firebrick; text-align:center;}
+.rong03 a{ color:white;}
+.rong03 a:hover{ color:white;}
+

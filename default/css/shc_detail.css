@@ -1,0 +1,14 @@
+@charset "utf-8";
+
+
+table{border-collapse:collapse;border-spacing:0;}
+
+
+/*表格参数*/
+.canshu_table {margin: 20px auto;width: 850px;border: 4px solid #313131;border-radius: 6px;}
+.canshu_table table {width:850px;}
+.canshu_table tr{color:#313131;line-height:40px;height:40px;}
+.canshu_table  p {line-height:30px;}
+.canshu_table tr td {width:180px;padding-left:50px;}
+.tablebg1{border-left:2px solid #313131;background:#f8f8f8;font-weight:bold;font-size: 14px;}
+.tablebg p{padding:0px 0px;line-height:10px;color:#ff8045;font-weight:bold;font-size: 16px;}
